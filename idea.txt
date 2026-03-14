@@ -1,0 +1,28 @@
+Steps:
+1.See the data and visualize for answering some questions
+2.The main questions --> Answer it by plots or some model
+3. (The main) clean the dataset:
+	a.have missing values
+	b.maybe we have to add two coloumns (date & time--> Date/time)
+4.We make a model (if required) OR we will just make some logic or algo and find out the answer
+5.We will make a report (from all the question and answer)[attached to my CV]
+
+
+
+Questions:
+1.How did global oil prices change during the conflict?
+-> global oil price before vs after:
+	a.Price column and country coloumn
+2.Which country experienced the highest petrol price increase?
+-> by dataset we will see the price difference 
+
+3.Which region suffered the most?
+-> same as before answer
+
+4.Are oil-import-dependent countries more vulnerable?
+->yes or no(no idea) 
+
+5.Which economies face the biggest risk from rising fuel prices?
+
+
+6.What does this crisis mean for the global energy transition?
