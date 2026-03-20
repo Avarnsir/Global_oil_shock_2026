@@ -13,6 +13,8 @@ print(df[['Country','Amount_Change']])
 ##Plot a graph
 plt.figure(figsize=(19,6))
 plt.plot(df['Country'], df['Amount_Change'], marker='o', linestyle='-')
+for x, y in zip(df['Country'], df['Amount_Change']):
+    plt.text(x, y, f"{y}", ha='center', va='bottom', fontsize=8)
 plt.title("Amount_Change")
 plt.ylabel('Amount Change')
 plt.xlabel('Country')

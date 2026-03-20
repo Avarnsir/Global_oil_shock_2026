@@ -3,7 +3,7 @@
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/khurramshahzad/global-petrol-prices-us-iran-war-2026)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-green?logo=python)](https://python.org)
-[![Last Updated](https://img.shields.io/badge/Updated-16%20March%202026-brightgreen)]()
+[![Last Updated](https://img.shields.io/badge/Updated-9%20March%202026-brightgreen)]()
 
 ---
 
